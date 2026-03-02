@@ -1,0 +1,2 @@
+gstin,invoice_no,invoice_date,taxable_value,total_gst
+GSTIN1,INV1001,2026-02-28,1000,180
